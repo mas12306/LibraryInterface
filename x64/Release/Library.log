@@ -1,0 +1,42 @@
+﻿  book.cpp
+  Librarian.cpp
+  Log.cpp
+  main.cpp
+D:\1\Library\interface.h(56,6): warning C4101: “a”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(244,20): warning C4353: 使用了非标准扩展: 常量 0 作为了函数表达式。 请改用“__noop”内部函数
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(294,20): warning C4353: 使用了非标准扩展: 常量 0 作为了函数表达式。 请改用“__noop”内部函数
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(371,38): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(468,38): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(624,38): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(725,38): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(873,38): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(1363,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(1457,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\main.cpp(11,9): warning C4101: “a”: 未引用的局部变量
+  Register.cpp
+  User.cpp
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 823 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Library.vcxproj -> D:\1\Library\x64\Release\Library.exe

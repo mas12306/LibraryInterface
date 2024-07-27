@@ -1,0 +1,34 @@
+﻿D:\vscode\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(LibraryMs.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+D:\1\Library\interface.h(56,6): warning C4101: “a”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(244,20): warning C4353: 使用了非标准扩展: 常量 0 作为了函数表达式。 请改用“__noop”内部函数
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(294,20): warning C4353: 使用了非标准扩展: 常量 0 作为了函数表达式。 请改用“__noop”内部函数
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(371,38): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(468,38): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(624,38): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(725,38): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(873,38): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(1363,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\interface.h(1457,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\1\Library\main.cpp(11,9): warning C4101: “a”: 未引用的局部变量
+  Library.vcxproj -> D:\1\Library\x64\Debug\Library.exe
